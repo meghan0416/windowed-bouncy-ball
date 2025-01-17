@@ -21,8 +21,8 @@ If any issues compiling, try adding them to PATH manually:
 
 ==== Compiling ====
 
-In the provided Makefile, change the include path for GLEW to your system path to GLEW.
-If you have an M1/M2/... Mac, the path for brew installs will be different from mine.
+In the provided Makefile, change the include paths and library paths to your system paths if needed.
+If you have an Intel Mac, the path for brew installs will be different from mine.
 
 Use the following command in Terminal to compile:
 
